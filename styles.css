@@ -1,0 +1,48 @@
+.image-profile img{
+    width: 100px;
+    box-sizing: border-box;
+    border-radius: 999px;
+    
+
+}
+#cabezera-1{
+    margin: 10px;
+    border: 5px solid blue; 
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  border-radius: 30px;
+
+
+}
+
+.name h1{
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+}
+#cabezera-2 {
+    border: 5px solid blue;
+    width: 300px;
+    border-radius: 30px;
+}
+
+.titulo-2 img {
+    display: flex;
+    flex-direction: column;
+    margin:10px;
+}
+.titulo-2 div{
+    display: flex;
+    align-items: center;
+}
+
+
+#main{
+    display: flex;
+}
+
+
+
+    
